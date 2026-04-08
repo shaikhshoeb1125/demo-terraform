@@ -1,0 +1,5 @@
+# Please add subscriptionID, TenantID and service principle credentials accordingly.
+resource_group_name  = ""
+storage_account_name = ""
+container_name       = ""
+key                  = ""
